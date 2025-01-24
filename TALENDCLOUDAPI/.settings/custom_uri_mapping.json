@@ -1,0 +1,3 @@
+{
+  "mvn:org.talend.libraries/cxf-rt-rs-service-description/6.0.0-SNAPSHOT" : "mvn:org.apache.cxf/cxf-rt-rs-service-description/4.1.0/jar"
+}
